@@ -36,7 +36,7 @@ Simply provide your Google API key and enter the substructure data to get starte
 """)
 
 # API key input (use st.secrets in production)
-api_key = "AIzaSyCEJbG_DKkr1TrRhTiabAJg2Lnc6zh--bc"
+api_key = ""
 
 # Sample data
 sample_data = """
