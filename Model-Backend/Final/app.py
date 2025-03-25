@@ -13,7 +13,7 @@ app = Flask(__name__)
 CORS(app)  # Enable CORS for all routes
 
 # Initialize the DrugDesignRAG instance
-api_key = "AIzaSyCEJbG_DKkr1TrRhTiabAJg2Lnc6zh--bc"
+api_key = ""
 drug_designer = DrugDesignRAG(api_key=api_key)
 
 # Sample data
