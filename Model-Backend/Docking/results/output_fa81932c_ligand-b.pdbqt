@@ -1,0 +1,477 @@
+MODEL 1
+REMARK VINA RESULT:    -0.000      0.000      0.000
+REMARK INTER + INTRA:          -1.663
+REMARK INTER:                   0.000
+REMARK INTRA:                  -1.663
+REMARK UNBOUND:                -1.663
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C03_1  and  C10_8 
+REMARK    2  A    between atoms: C04_2  and  C08_6 
+REMARK    3  A    between atoms: C15_13  and  C18_16 
+REMARK    4  A    between atoms: C18_16  and  C20_18 
+REMARK    5  A    between atoms: C20_18  and  C21_19 
+REMARK    6  A    between atoms: C21_19  and  C22_20 
+ROOT
+ATOM      1  C08 CBD B1001       1.941  -0.804  -6.015  1.00 27.96     0.033 A 
+ATOM      2  C11 CBD B1001       2.029  -1.999  -5.310  1.00 27.96     0.129 A 
+ATOM      3  C12 CBD B1001       1.537   0.359  -5.343  1.00 27.96     0.129 A 
+ATOM      4  C15 CBD B1001       1.258  -0.926  -3.303  1.00 27.96    -0.018 A 
+ATOM      5  C16 CBD B1001       1.677  -2.072  -3.967  1.00 27.96     0.023 A 
+ATOM      6  C17 CBD B1001       1.185   0.288  -3.990  1.00 27.96     0.023 A 
+ATOM      7  O01 CBD B1001       2.452  -3.148  -5.994  1.00 27.96    -0.190 OA
+ATOM      8  O02 CBD B1001       1.449   1.599  -5.993  1.00 27.96    -0.190 OA
+ENDROOT
+BRANCH   1   9
+ATOM      9  C04 CBD B1001       2.399  -0.897  -7.490  1.00 27.96     0.051 C 
+ATOM     10  C07 CBD B1001       3.752  -0.218  -7.506  1.00 27.96    -0.030 C 
+ATOM     11  C09 CBD B1001       4.494  -0.491  -8.551  1.00 27.96    -0.048 C 
+ATOM     12  C06 CBD B1001       3.874  -0.469  -9.949  1.00 27.96     0.022 C 
+ATOM     13  C13 CBD B1001       5.669  -1.436  -8.317  1.00 27.96     0.026 C 
+ATOM     14  C05 CBD B1001       2.334  -0.585  -9.965  1.00 27.96     0.009 C 
+ATOM     15  C03 CBD B1001       1.623  -0.247  -8.642  1.00 27.96     0.027 C 
+BRANCH  15  16
+ATOM     16  C10 CBD B1001       0.187  -0.760  -8.803  1.00 27.96    -0.044 C 
+ATOM     17  C19 CBD B1001      -0.059  -1.905  -9.443  1.00 27.96    -0.009 C 
+ATOM     18  C14 CBD B1001      -0.979   0.083  -8.251  1.00 27.96     0.026 C 
+ENDBRANCH  15  16
+ENDBRANCH   1   9
+BRANCH   4  19
+ATOM     19  C18 CBD B1001       0.872  -1.028  -1.807  1.00 27.96     0.026 C 
+BRANCH  19  20
+ATOM     20  C20 CBD B1001      -0.310  -2.023  -1.659  1.00 27.96     0.005 C 
+BRANCH  20  21
+ATOM     21  C21 CBD B1001      -1.600  -1.419  -2.283  1.00 27.96     0.000 C 
+BRANCH  21  22
+ATOM     22  C22 CBD B1001      -2.123  -2.365  -3.390  1.00 27.96     0.000 C 
+ATOM     23  C23 CBD B1001      -2.000  -1.660  -4.763  1.00 27.96     0.000 C 
+ENDBRANCH  21  22
+ENDBRANCH  20  21
+ENDBRANCH  19  20
+ENDBRANCH   4  19
+TORSDOF 6
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:    -0.000      2.692      6.599
+REMARK INTER + INTRA:          -1.663
+REMARK INTER:                   0.000
+REMARK INTRA:                  -1.663
+REMARK UNBOUND:                -1.663
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C03_1  and  C10_8 
+REMARK    2  A    between atoms: C04_2  and  C08_6 
+REMARK    3  A    between atoms: C15_13  and  C18_16 
+REMARK    4  A    between atoms: C18_16  and  C20_18 
+REMARK    5  A    between atoms: C20_18  and  C21_19 
+REMARK    6  A    between atoms: C21_19  and  C22_20 
+ROOT
+ATOM      1  C08 CBD B1001       0.107   0.797  -4.608  1.00 27.96     0.033 A 
+ATOM      2  C11 CBD B1001       0.486   0.647  -5.937  1.00 27.96     0.129 A 
+ATOM      3  C12 CBD B1001       0.562   1.911  -3.887  1.00 27.96     0.129 A 
+ATOM      4  C15 CBD B1001       1.817   2.645  -5.830  1.00 27.96    -0.018 A 
+ATOM      5  C16 CBD B1001       1.349   1.551  -6.547  1.00 27.96     0.023 A 
+ATOM      6  C17 CBD B1001       1.428   2.824  -4.501  1.00 27.96     0.023 A 
+ATOM      7  O01 CBD B1001       0.007  -0.463  -6.648  1.00 27.96    -0.190 OA
+ATOM      8  O02 CBD B1001       0.196   2.130  -2.550  1.00 27.96    -0.190 OA
+ENDROOT
+BRANCH   1   9
+ATOM      9  C04 CBD B1001      -0.879  -0.282  -4.099  1.00 27.96     0.051 C 
+ATOM     10  C07 CBD B1001      -2.213   0.429  -4.034  1.00 27.96    -0.030 C 
+ATOM     11  C09 CBD B1001      -3.258  -0.360  -3.984  1.00 27.96    -0.048 C 
+ATOM     12  C06 CBD B1001      -3.254  -1.567  -3.043  1.00 27.96     0.022 C 
+ATOM     13  C13 CBD B1001      -4.085  -0.467  -5.262  1.00 27.96     0.026 C 
+ATOM     14  C05 CBD B1001      -1.848  -2.011  -2.584  1.00 27.96     0.009 C 
+ATOM     15  C03 CBD B1001      -0.731  -0.962  -2.733  1.00 27.96     0.027 C 
+BRANCH  15  16
+ATOM     16  C10 CBD B1001       0.583  -1.729  -2.549  1.00 27.96    -0.044 C 
+ATOM     17  C19 CBD B1001       0.726  -2.961  -3.043  1.00 27.96    -0.009 C 
+ATOM     18  C14 CBD B1001       1.730  -1.078  -1.751  1.00 27.96     0.026 C 
+ENDBRANCH  15  16
+ENDBRANCH   1   9
+BRANCH   4  19
+ATOM     19  C18 CBD B1001       2.776   3.642  -6.529  1.00 27.96     0.026 C 
+BRANCH  19  20
+ATOM     20  C20 CBD B1001       4.055   2.883  -6.971  1.00 27.96     0.005 C 
+BRANCH  20  21
+ATOM     21  C21 CBD B1001       4.884   2.460  -5.725  1.00 27.96     0.000 C 
+BRANCH  21  22
+ATOM     22  C22 CBD B1001       5.061   0.923  -5.728  1.00 27.96     0.000 C 
+ATOM     23  C23 CBD B1001       4.300   0.319  -4.523  1.00 27.96     0.000 C 
+ENDBRANCH  21  22
+ENDBRANCH  20  21
+ENDBRANCH  19  20
+ENDBRANCH   4  19
+TORSDOF 6
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:    -0.000     10.319     12.294
+REMARK INTER + INTRA:          -1.663
+REMARK INTER:                   0.000
+REMARK INTRA:                  -1.663
+REMARK UNBOUND:                -1.663
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C03_1  and  C10_8 
+REMARK    2  A    between atoms: C04_2  and  C08_6 
+REMARK    3  A    between atoms: C15_13  and  C18_16 
+REMARK    4  A    between atoms: C18_16  and  C20_18 
+REMARK    5  A    between atoms: C20_18  and  C21_19 
+REMARK    6  A    between atoms: C21_19  and  C22_20 
+ROOT
+ATOM      1  C08 CBD B1001      -0.090   2.357   5.189  1.00 27.96     0.033 A 
+ATOM      2  C11 CBD B1001       0.562   1.602   4.221  1.00 27.96     0.129 A 
+ATOM      3  C12 CBD B1001      -0.764   1.702   6.229  1.00 27.96     0.129 A 
+ATOM      4  C15 CBD B1001      -0.169  -0.440   5.256  1.00 27.96    -0.018 A 
+ATOM      5  C16 CBD B1001       0.515   0.212   4.237  1.00 27.96     0.023 A 
+ATOM      6  C17 CBD B1001      -0.811   0.303   6.249  1.00 27.96     0.023 A 
+ATOM      7  O01 CBD B1001       1.247   2.275   3.199  1.00 27.96    -0.190 OA
+ATOM      8  O02 CBD B1001      -1.423   2.407   7.248  1.00 27.96    -0.190 OA
+ENDROOT
+BRANCH   1   9
+ATOM      9  C04 CBD B1001       0.091   3.886   5.036  1.00 27.96     0.051 C 
+ATOM     10  C07 CBD B1001       1.070   4.260   6.128  1.00 27.96    -0.030 C 
+ATOM     11  C09 CBD B1001       1.655   5.422   5.972  1.00 27.96    -0.048 C 
+ATOM     12  C06 CBD B1001       0.825   6.641   5.565  1.00 27.96     0.022 C 
+ATOM     13  C13 CBD B1001       3.117   5.389   5.537  1.00 27.96     0.026 C 
+ATOM     14  C05 CBD B1001      -0.537   6.298   4.924  1.00 27.96     0.009 C 
+ATOM     15  C03 CBD B1001      -1.067   4.879   5.194  1.00 27.96     0.027 C 
+BRANCH  15  16
+ATOM     16  C10 CBD B1001      -2.215   4.671   4.200  1.00 27.96    -0.044 C 
+ATOM     17  C19 CBD B1001      -2.134   5.149   2.957  1.00 27.96    -0.009 C 
+ATOM     18  C14 CBD B1001      -3.488   3.935   4.663  1.00 27.96     0.026 C 
+ENDBRANCH  15  16
+ENDBRANCH   1   9
+BRANCH   4  19
+ATOM     19  C18 CBD B1001      -0.208  -1.988   5.257  1.00 27.96     0.026 C 
+BRANCH  19  20
+ATOM     20  C20 CBD B1001      -0.889  -2.475   3.950  1.00 27.96     0.005 C 
+BRANCH  20  21
+ATOM     21  C21 CBD B1001      -2.402  -2.115   3.969  1.00 27.96     0.000 C 
+BRANCH  21  22
+ATOM     22  C22 CBD B1001      -2.731  -1.229   2.743  1.00 27.96     0.000 C 
+ATOM     23  C23 CBD B1001      -3.133   0.185   3.229  1.00 27.96     0.000 C 
+ENDBRANCH  21  22
+ENDBRANCH  20  21
+ENDBRANCH  19  20
+ENDBRANCH   4  19
+TORSDOF 6
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:    -0.000      7.849     10.532
+REMARK INTER + INTRA:          -1.663
+REMARK INTER:                   0.000
+REMARK INTRA:                  -1.663
+REMARK UNBOUND:                -1.663
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C03_1  and  C10_8 
+REMARK    2  A    between atoms: C04_2  and  C08_6 
+REMARK    3  A    between atoms: C15_13  and  C18_16 
+REMARK    4  A    between atoms: C18_16  and  C20_18 
+REMARK    5  A    between atoms: C20_18  and  C21_19 
+REMARK    6  A    between atoms: C21_19  and  C22_20 
+ROOT
+ATOM      1  C08 CBD B1001      -5.274  -4.490  -0.123  1.00 27.96     0.033 A 
+ATOM      2  C11 CBD B1001      -4.726  -5.387  -1.033  1.00 27.96     0.129 A 
+ATOM      3  C12 CBD B1001      -6.652  -4.529   0.133  1.00 27.96     0.129 A 
+ATOM      4  C15 CBD B1001      -6.895  -6.315  -1.493  1.00 27.96    -0.018 A 
+ATOM      5  C16 CBD B1001      -5.526  -6.286  -1.730  1.00 27.96     0.023 A 
+ATOM      6  C17 CBD B1001      -7.458  -5.436  -0.566  1.00 27.96     0.023 A 
+ATOM      7  O01 CBD B1001      -3.343  -5.346  -1.262  1.00 27.96    -0.190 OA
+ATOM      8  O02 CBD B1001      -7.261  -3.665   1.056  1.00 27.96    -0.190 OA
+ENDROOT
+BRANCH   1   9
+ATOM      9  C04 CBD B1001      -4.237  -3.584   0.583  1.00 27.96     0.051 C 
+ATOM     10  C07 CBD B1001      -4.130  -4.153   1.981  1.00 27.96    -0.030 C 
+ATOM     11  C09 CBD B1001      -3.061  -3.790   2.645  1.00 27.96    -0.048 C 
+ATOM     12  C06 CBD B1001      -2.623  -2.324   2.636  1.00 27.96     0.022 C 
+ATOM     13  C13 CBD B1001      -1.973  -4.848   2.806  1.00 27.96     0.026 C 
+ATOM     14  C05 CBD B1001      -3.207  -1.493   1.473  1.00 27.96     0.009 C 
+ATOM     15  C03 CBD B1001      -4.455  -2.080   0.790  1.00 27.96     0.027 C 
+BRANCH  15  16
+ATOM     16  C10 CBD B1001      -4.628  -1.283  -0.509  1.00 27.96    -0.044 C 
+ATOM     17  C19 CBD B1001      -3.565  -0.909  -1.223  1.00 27.96    -0.009 C 
+ATOM     18  C14 CBD B1001      -6.046  -0.883  -0.962  1.00 27.96     0.026 C 
+ENDBRANCH  15  16
+ENDBRANCH   1   9
+BRANCH   4  19
+ATOM     19  C18 CBD B1001      -7.768  -7.324  -2.279  1.00 27.96     0.026 C 
+BRANCH  19  20
+ATOM     20  C20 CBD B1001      -7.637  -7.029  -3.797  1.00 27.96     0.005 C 
+BRANCH  20  21
+ATOM     21  C21 CBD B1001      -8.323  -5.675  -4.140  1.00 27.96     0.000 C 
+BRANCH  21  22
+ATOM     22  C22 CBD B1001      -7.285  -4.726  -4.785  1.00 27.96     0.000 C 
+ATOM     23  C23 CBD B1001      -7.033  -3.528  -3.838  1.00 27.96     0.000 C 
+ENDBRANCH  21  22
+ENDBRANCH  20  21
+ENDBRANCH  19  20
+ENDBRANCH   4  19
+TORSDOF 6
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:    -0.000      2.707      4.380
+REMARK INTER + INTRA:          -1.663
+REMARK INTER:                   0.000
+REMARK INTRA:                  -1.663
+REMARK UNBOUND:                -1.663
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C03_1  and  C10_8 
+REMARK    2  A    between atoms: C04_2  and  C08_6 
+REMARK    3  A    between atoms: C15_13  and  C18_16 
+REMARK    4  A    between atoms: C18_16  and  C20_18 
+REMARK    5  A    between atoms: C20_18  and  C21_19 
+REMARK    6  A    between atoms: C21_19  and  C22_20 
+ROOT
+ATOM      1  C08 CBD B1001       2.158  -1.140  -3.213  1.00 27.96     0.033 A 
+ATOM      2  C11 CBD B1001       3.057  -2.059  -2.686  1.00 27.96     0.129 A 
+ATOM      3  C12 CBD B1001       0.782  -1.349  -3.040  1.00 27.96     0.129 A 
+ATOM      4  C15 CBD B1001       1.253  -3.428  -1.879  1.00 27.96    -0.018 A 
+ATOM      5  C16 CBD B1001       2.616  -3.207  -2.035  1.00 27.96     0.023 A 
+ATOM      6  C17 CBD B1001       0.336  -2.503  -2.383  1.00 27.96     0.023 A 
+ATOM      7  O01 CBD B1001       4.429  -1.824  -2.852  1.00 27.96    -0.190 OA
+ATOM      8  O02 CBD B1001      -0.174  -0.447  -3.531  1.00 27.96    -0.190 OA
+ENDROOT
+BRANCH   1   9
+ATOM      9  C04 CBD B1001       2.819   0.092  -3.877  1.00 27.96     0.051 C 
+ATOM     10  C07 CBD B1001       2.605   1.214  -2.885  1.00 27.96    -0.030 C 
+ATOM     11  C09 CBD B1001       3.384   2.254  -3.050  1.00 27.96    -0.048 C 
+ATOM     12  C06 CBD B1001       3.603   2.823  -4.454  1.00 27.96     0.022 C 
+ATOM     13  C13 CBD B1001       4.515   2.419  -2.040  1.00 27.96     0.026 C 
+ATOM     14  C05 CBD B1001       3.263   1.843  -5.598  1.00 27.96     0.009 C 
+ATOM     15  C03 CBD B1001       2.350   0.663  -5.220  1.00 27.96     0.027 C 
+BRANCH  15  16
+ATOM     16  C10 CBD B1001       2.443  -0.322  -6.391  1.00 27.96    -0.044 C 
+ATOM     17  C19 CBD B1001       3.603  -0.523  -7.020  1.00 27.96    -0.009 C 
+ATOM     18  C14 CBD B1001       1.170  -1.052  -6.864  1.00 27.96     0.026 C 
+ENDBRANCH  15  16
+ENDBRANCH   1   9
+BRANCH   4  19
+ATOM     19  C18 CBD B1001       0.782  -4.711  -1.150  1.00 27.96     0.026 C 
+BRANCH  19  20
+ATOM     20  C20 CBD B1001       1.297  -5.950  -1.931  1.00 27.96     0.005 C 
+BRANCH  20  21
+ATOM     21  C21 CBD B1001       0.558  -6.067  -3.295  1.00 27.96     0.000 C 
+BRANCH  21  22
+ATOM     22  C22 CBD B1001       1.597  -6.040  -4.441  1.00 27.96     0.000 C 
+ATOM     23  C23 CBD B1001       1.405  -4.748  -5.273  1.00 27.96     0.000 C 
+ENDBRANCH  21  22
+ENDBRANCH  20  21
+ENDBRANCH  19  20
+ENDBRANCH   4  19
+TORSDOF 6
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:    -0.000      3.414      5.478
+REMARK INTER + INTRA:          -1.663
+REMARK INTER:                   0.000
+REMARK INTRA:                  -1.663
+REMARK UNBOUND:                -1.663
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C03_1  and  C10_8 
+REMARK    2  A    between atoms: C04_2  and  C08_6 
+REMARK    3  A    between atoms: C15_13  and  C18_16 
+REMARK    4  A    between atoms: C18_16  and  C20_18 
+REMARK    5  A    between atoms: C20_18  and  C21_19 
+REMARK    6  A    between atoms: C21_19  and  C22_20 
+ROOT
+ATOM      1  C08 CBD B1001      -0.275   1.341  -4.476  1.00 27.96     0.033 A 
+ATOM      2  C11 CBD B1001      -1.000   1.389  -3.292  1.00 27.96     0.129 A 
+ATOM      3  C12 CBD B1001       0.314   0.131  -4.871  1.00 27.96     0.129 A 
+ATOM      4  C15 CBD B1001      -0.511  -0.920  -2.845  1.00 27.96    -0.018 A 
+ATOM      5  C16 CBD B1001      -1.109   0.275  -2.467  1.00 27.96     0.023 A 
+ATOM      6  C17 CBD B1001       0.203  -0.993  -4.043  1.00 27.96     0.023 A 
+ATOM      7  O01 CBD B1001      -1.597   2.603  -2.923  1.00 27.96    -0.190 OA
+ATOM      8  O02 CBD B1001       1.039   0.013  -6.066  1.00 27.96    -0.190 OA
+ENDROOT
+BRANCH   1   9
+ATOM      9  C04 CBD B1001      -0.282   2.661  -5.284  1.00 27.96     0.051 C 
+ATOM     10  C07 CBD B1001      -1.221   2.390  -6.440  1.00 27.96    -0.030 C 
+ATOM     11  C09 CBD B1001      -1.672   3.458  -7.049  1.00 27.96    -0.048 C 
+ATOM     12  C06 CBD B1001      -0.707   4.592  -7.405  1.00 27.96     0.022 C 
+ATOM     13  C13 CBD B1001      -3.125   3.832  -6.773  1.00 27.96     0.026 C 
+ATOM     14  C05 CBD B1001       0.613   4.580  -6.605  1.00 27.96     0.009 C 
+ATOM     15  C03 CBD B1001       0.978   3.243  -5.934  1.00 27.96     0.027 C 
+BRANCH  15  16
+ATOM     16  C10 CBD B1001       2.104   3.571  -4.946  1.00 27.96    -0.044 C 
+ATOM     17  C19 CBD B1001       2.085   4.708  -4.247  1.00 27.96    -0.009 C 
+ATOM     18  C14 CBD B1001       3.282   2.589  -4.794  1.00 27.96     0.026 C 
+ENDBRANCH  15  16
+ENDBRANCH   1   9
+BRANCH   4  19
+ATOM     19  C18 CBD B1001      -0.645  -2.151  -1.913  1.00 27.96     0.026 C 
+BRANCH  19  20
+ATOM     20  C20 CBD B1001      -0.013  -1.811  -0.537  1.00 27.96     0.005 C 
+BRANCH  20  21
+ATOM     21  C21 CBD B1001       1.531  -1.680  -0.675  1.00 27.96     0.000 C 
+BRANCH  21  22
+ATOM     22  C22 CBD B1001       1.967  -0.270  -0.209  1.00 27.96     0.000 C 
+ATOM     23  C23 CBD B1001       2.520   0.519  -1.421  1.00 27.96     0.000 C 
+ENDBRANCH  21  22
+ENDBRANCH  20  21
+ENDBRANCH  19  20
+ENDBRANCH   4  19
+TORSDOF 6
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:     0.000      7.838     10.532
+REMARK INTER + INTRA:          -1.663
+REMARK INTER:                   0.000
+REMARK INTRA:                  -1.663
+REMARK UNBOUND:                -1.663
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C03_1  and  C10_8 
+REMARK    2  A    between atoms: C04_2  and  C08_6 
+REMARK    3  A    between atoms: C15_13  and  C18_16 
+REMARK    4  A    between atoms: C18_16  and  C20_18 
+REMARK    5  A    between atoms: C20_18  and  C21_19 
+REMARK    6  A    between atoms: C21_19  and  C22_20 
+ROOT
+ATOM      1  C08 CBD B1001       0.121  -4.942   2.493  1.00 27.96     0.033 A 
+ATOM      2  C11 CBD B1001      -0.099  -4.829   3.861  1.00 27.96     0.129 A 
+ATOM      3  C12 CBD B1001      -0.813  -5.630   1.704  1.00 27.96     0.129 A 
+ATOM      4  C15 CBD B1001      -2.114  -6.126   3.692  1.00 27.96    -0.018 A 
+ATOM      5  C16 CBD B1001      -1.198  -5.427   4.468  1.00 27.96     0.023 A 
+ATOM      6  C17 CBD B1001      -1.922  -6.231   2.313  1.00 27.96     0.023 A 
+ATOM      7  O01 CBD B1001       0.836  -4.121   4.631  1.00 27.96    -0.190 OA
+ATOM      8  O02 CBD B1001      -0.659  -5.761   0.316  1.00 27.96    -0.190 OA
+ENDROOT
+BRANCH   1   9
+ATOM      9  C04 CBD B1001       1.373  -4.192   1.982  1.00 27.96     0.051 C 
+ATOM     10  C07 CBD B1001       0.820  -2.971   1.279  1.00 27.96    -0.030 C 
+ATOM     11  C09 CBD B1001       1.684  -2.006   1.086  1.00 27.96    -0.048 C 
+ATOM     12  C06 CBD B1001       3.082  -2.333   0.557  1.00 27.96     0.022 C 
+ATOM     13  C13 CBD B1001       1.540  -0.780   1.984  1.00 27.96     0.026 C 
+ATOM     14  C05 CBD B1001       3.503  -3.806   0.740  1.00 27.96     0.009 C 
+ATOM     15  C03 CBD B1001       2.358  -4.807   0.979  1.00 27.96     0.027 C 
+BRANCH  15  16
+ATOM     16  C10 CBD B1001       3.030  -6.096   1.466  1.00 27.96    -0.044 C 
+ATOM     17  C19 CBD B1001       4.082  -6.047   2.285  1.00 27.96    -0.009 C 
+ATOM     18  C14 CBD B1001       2.501  -7.455   0.966  1.00 27.96     0.026 C 
+ENDBRANCH  15  16
+ENDBRANCH   1   9
+BRANCH   4  19
+ATOM     19  C18 CBD B1001      -3.333  -6.784   4.387  1.00 27.96     0.026 C 
+BRANCH  19  20
+ATOM     20  C20 CBD B1001      -2.822  -7.819   5.424  1.00 27.96     0.005 C 
+BRANCH  20  21
+ATOM     21  C21 CBD B1001      -2.175  -9.032   4.696  1.00 27.96     0.000 C 
+BRANCH  21  22
+ATOM     22  C22 CBD B1001      -0.709  -9.185   5.165  1.00 27.96     0.000 C 
+ATOM     23  C23 CBD B1001       0.240  -8.894   3.977  1.00 27.96     0.000 C 
+ENDBRANCH  21  22
+ENDBRANCH  20  21
+ENDBRANCH  19  20
+ENDBRANCH   4  19
+TORSDOF 6
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:     0.000      7.850     10.382
+REMARK INTER + INTRA:          -1.663
+REMARK INTER:                   0.000
+REMARK INTRA:                  -1.663
+REMARK UNBOUND:                -1.663
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C03_1  and  C10_8 
+REMARK    2  A    between atoms: C04_2  and  C08_6 
+REMARK    3  A    between atoms: C15_13  and  C18_16 
+REMARK    4  A    between atoms: C18_16  and  C20_18 
+REMARK    5  A    between atoms: C20_18  and  C21_19 
+REMARK    6  A    between atoms: C21_19  and  C22_20 
+ROOT
+ATOM      1  C08 CBD B1001      -2.976  -3.407   0.850  1.00 27.96     0.033 A 
+ATOM      2  C11 CBD B1001      -3.681  -3.108  -0.310  1.00 27.96     0.129 A 
+ATOM      3  C12 CBD B1001      -2.569  -4.729   1.084  1.00 27.96     0.129 A 
+ATOM      4  C15 CBD B1001      -3.648  -5.416  -0.979  1.00 27.96    -0.018 A 
+ATOM      5  C16 CBD B1001      -4.033  -4.103  -1.216  1.00 27.96     0.023 A 
+ATOM      6  C17 CBD B1001      -2.920  -5.731   0.171  1.00 27.96     0.023 A 
+ATOM      7  O01 CBD B1001      -4.063  -1.778  -0.535  1.00 27.96    -0.190 OA
+ATOM      8  O02 CBD B1001      -1.837  -5.090   2.225  1.00 27.96    -0.190 OA
+ENDROOT
+BRANCH   1   9
+ATOM      9  C04 CBD B1001      -2.644  -2.179   1.731  1.00 27.96     0.051 C 
+ATOM     10  C07 CBD B1001      -1.167  -1.940   1.500  1.00 27.96    -0.030 C 
+ATOM     11  C09 CBD B1001      -0.739  -0.750   1.844  1.00 27.96    -0.048 C 
+ATOM     12  C06 CBD B1001      -1.171  -0.145   3.181  1.00 27.96     0.022 C 
+ATOM     13  C13 CBD B1001      -0.434   0.214   0.701  1.00 27.96     0.026 C 
+ATOM     14  C05 CBD B1001      -2.436  -0.787   3.791  1.00 27.96     0.009 C 
+ATOM     15  C03 CBD B1001      -2.805  -2.182   3.255  1.00 27.96     0.027 C 
+BRANCH  15  16
+ATOM     16  C10 CBD B1001      -4.237  -2.444   3.737  1.00 27.96    -0.044 C 
+ATOM     17  C19 CBD B1001      -5.136  -1.458   3.765  1.00 27.96    -0.009 C 
+ATOM     18  C14 CBD B1001      -4.620  -3.854   4.229  1.00 27.96     0.026 C 
+ENDBRANCH  15  16
+ENDBRANCH   1   9
+BRANCH   4  19
+ATOM     19  C18 CBD B1001      -4.049  -6.509  -2.001  1.00 27.96     0.026 C 
+BRANCH  19  20
+ATOM     20  C20 CBD B1001      -5.596  -6.563  -2.099  1.00 27.96     0.005 C 
+BRANCH  20  21
+ATOM     21  C21 CBD B1001      -6.197  -7.123  -0.779  1.00 27.96     0.000 C 
+BRANCH  21  22
+ATOM     22  C22 CBD B1001      -7.174  -6.082  -0.181  1.00 27.96     0.000 C 
+ATOM     23  C23 CBD B1001      -6.599  -5.553   1.156  1.00 27.96     0.000 C 
+ENDBRANCH  21  22
+ENDBRANCH  20  21
+ENDBRANCH  19  20
+ENDBRANCH   4  19
+TORSDOF 6
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:     0.000      5.963      8.750
+REMARK INTER + INTRA:          -1.663
+REMARK INTER:                   0.000
+REMARK INTRA:                  -1.663
+REMARK UNBOUND:                -1.663
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C03_1  and  C10_8 
+REMARK    2  A    between atoms: C04_2  and  C08_6 
+REMARK    3  A    between atoms: C15_13  and  C18_16 
+REMARK    4  A    between atoms: C18_16  and  C20_18 
+REMARK    5  A    between atoms: C20_18  and  C21_19 
+REMARK    6  A    between atoms: C21_19  and  C22_20 
+ROOT
+ATOM      1  C08 CBD B1001      -2.620  -2.501  -0.842  1.00 27.96     0.033 A 
+ATOM      2  C11 CBD B1001      -3.204  -2.126  -2.046  1.00 27.96     0.129 A 
+ATOM      3  C12 CBD B1001      -2.609  -3.855  -0.477  1.00 27.96     0.129 A 
+ATOM      4  C15 CBD B1001      -3.830  -4.402  -2.502  1.00 27.96    -0.018 A 
+ATOM      5  C16 CBD B1001      -3.821  -3.062  -2.870  1.00 27.96     0.023 A 
+ATOM      6  C17 CBD B1001      -3.227  -4.798  -1.306  1.00 27.96     0.023 A 
+ATOM      7  O01 CBD B1001      -3.189  -0.770  -2.403  1.00 27.96    -0.190 OA
+ATOM      8  O02 CBD B1001      -2.016  -4.298   0.715  1.00 27.96    -0.190 OA
+ENDROOT
+BRANCH   1   9
+ATOM      9  C04 CBD B1001      -1.954  -1.339  -0.066  1.00 27.96     0.051 C 
+ATOM     10  C07 CBD B1001      -0.470  -1.553  -0.270  1.00 27.96    -0.030 C 
+ATOM     11  C09 CBD B1001       0.279  -0.507  -0.022  1.00 27.96    -0.048 C 
+ATOM     12  C06 CBD B1001       0.031   0.321   1.241  1.00 27.96     0.022 C 
+ATOM     13  C13 CBD B1001       0.852   0.217  -1.237  1.00 27.96     0.026 C 
+ATOM     14  C05 CBD B1001      -1.367   0.127   1.866  1.00 27.96     0.009 C 
+ATOM     15  C03 CBD B1001      -2.117  -1.150   1.447  1.00 27.96     0.027 C 
+BRANCH  15  16
+ATOM     16  C10 CBD B1001      -3.566  -0.947   1.904  1.00 27.96    -0.044 C 
+ATOM     17  C19 CBD B1001      -4.146   0.251   1.814  1.00 27.96    -0.009 C 
+ATOM     18  C14 CBD B1001      -4.338  -2.136   2.509  1.00 27.96     0.026 C 
+ENDBRANCH  15  16
+ENDBRANCH   1   9
+BRANCH   4  19
+ATOM     19  C18 CBD B1001      -4.521  -5.428  -3.434  1.00 27.96     0.026 C 
+BRANCH  19  20
+ATOM     20  C20 CBD B1001      -6.019  -5.049  -3.577  1.00 27.96     0.005 C 
+BRANCH  20  21
+ATOM     21  C21 CBD B1001      -6.761  -5.286  -2.230  1.00 27.96     0.000 C 
+BRANCH  21  22
+ATOM     22  C22 CBD B1001      -7.402  -3.959  -1.760  1.00 27.96     0.000 C 
+ATOM     23  C23 CBD B1001      -6.706  -3.489  -0.459  1.00 27.96     0.000 C 
+ENDBRANCH  21  22
+ENDBRANCH  20  21
+ENDBRANCH  19  20
+ENDBRANCH   4  19
+TORSDOF 6
+ENDMDL

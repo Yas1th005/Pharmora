@@ -1,0 +1,232 @@
+/* Main App Styles */
+.App {
+    font-family: 'Roboto', Arial, sans-serif;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .App-header {
+    background-color: #2c3e50;
+    color: white;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    text-align: center;
+    position: relative;
+  }
+  
+  .App-header h1 {
+    margin: 0;
+    font-size: 2rem;
+  }
+  
+  .App-main {
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  /* Server Status Indicator */
+  .server-status {
+    margin-top: 15px;
+    padding: 8px 16px;
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 0.9rem;
+  }
+  
+  .server-status.checking {
+    background-color: #f8f9fa;
+    color: #6c757d;
+  }
+  
+  .server-status.online {
+    background-color: #d4edda;
+    color: #155724;
+  }
+  
+  .server-status.offline {
+    background-color: #f8d7da;
+    color: #721c24;
+  }
+  
+  .server-status.error {
+    background-color: #fff3cd;
+    color: #856404;
+  }
+  
+  /* File Upload Styles */
+  .file-upload-container {
+    background-color: white;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .form-group label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .form-group input[type="file"] {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background-color: #f5f5f5;
+  }
+  
+  .file-info {
+    margin-top: 5px;
+    font-size: 0.9rem;
+    color: #007bff;
+  }
+  
+  .dock-button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 15px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.2s;
+  }
+  
+  .dock-button:hover {
+    background-color: #218838;
+  }
+  
+  .dock-button:disabled {
+    background-color: #6c757d;
+    cursor: not-allowed;
+  }
+  
+  /* Results Container */
+  .results-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+  }
+  
+  @media (max-width: 768px) {
+    .results-container {
+      grid-template-columns: 1fr;
+    }
+  }
+  
+  /* Terminal Output Styles */
+  .terminal-container {
+    background-color: white;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+  }
+  
+  .terminal {
+    background-color: #282c34;
+    color: #abb2bf;
+    font-family: 'Courier New', monospace;
+    padding: 15px;
+    border-radius: 4px;
+    overflow-y: auto;
+    max-height: 500px;
+    white-space: pre-wrap;
+  }
+  
+  .terminal-line {
+    line-height: 1.5;
+  }
+  
+  .terminal-placeholder {
+    color: #6c757d;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  /* Docking Results Styles */
+  .visualization-container {
+    background-color: white;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+  }
+  
+  .result-actions {
+    margin-bottom: 15px;
+  }
+  
+  .download-button {
+    display: inline-block;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    padding: 8px 15px;
+    border-radius: 4px;
+    transition: background-color 0.2s;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .download-button:hover {
+    background-color: #0069d9;
+  }
+  
+  .pdbqt-content {
+    background-color: #f8f9fa;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px;
+    font-family: 'Courier New', monospace;
+    font-size: 0.9rem;
+    white-space: pre-wrap;
+    max-height: 400px;
+    overflow-y: auto;
+  }
+  
+  .result-note {
+    margin-top: 15px;
+    color: #6c757d;
+    font-style: italic;
+  }
+  
+  /* Error Message Styles */
+  .error-message {
+    background-color: #f8d7da;
+    color: #721c24;
+    padding: 15px;
+    border-radius: 4px;
+    margin-bottom: 20px;
+  }
+  
+  .error-message h3 {
+    margin-top: 0;
+    font-size: 1.2rem;
+  }
+  
+  /* Loading States */
+  .loading-results {
+    text-align: center;
+    padding: 20px;
+    color: #6c757d;
+  }
+  
+  .results-error {
+    color: #dc3545;
+    padding: 15px;
+    background-color: #f8d7da;
+    border-radius: 4px;
+  }

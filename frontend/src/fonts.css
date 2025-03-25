@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'CustomFont';
+    src: url('../src/fonts/Akeila.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+
+  @font-face {
+    font-family: 'Monument';
+    src: url('../src/fonts/MonumentExtended-FreeForPersonalUse//MonumentExtended-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+  }
